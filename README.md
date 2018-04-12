@@ -9,4 +9,8 @@ macOS/Mac OS X only.
 
 macOS Shell Script.
 How to use:
-write "chmod a+x [file location]"
+Write "chmod a+x [file location]"
+Then drag file into Terminal window and press enter.
+This should write "Hello World!"
+
+And yes, I know that this is not how you write a program and that this is meaningless. It is just a test of GitHub which I have never used before.
