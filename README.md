@@ -5,7 +5,7 @@ Program that should write Hello World!
 
 I have never used GitHub before.
 
-I think that this only works on macOS/Mac OS X.
+I think that this only works on Linux, macOS/Mac OSX or other Unix systems.
 
 macOS Shell Script.
 How to use on mac:
